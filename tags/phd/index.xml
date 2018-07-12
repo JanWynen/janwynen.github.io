@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PhD on Welcome to my site</title>
+    <link>/tags/phd/</link>
+    <description>Recent content in PhD on Welcome to my site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/phd/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Comparing and explaining the effects of organizational autonomy in the public sector. (June 2011- May 2014)</title>
+      <link>/project/phd/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/project/phd/</guid>
+      <description>In the last three decades, public tasks have been shifted from central government to a proliferated periphery of autonomous agencies. According to the New Public Management (NPM) doctrine, organizational autonomy would induce these agencies to develop a more private sector-like management, to be more customer-oriented, and to be more accountable for results. Although many governments of most OECD countries continue(d) to change the structure of their public sector fundamentally, following NPM and post-NPM recipes, little was known of the effect of increased autonomy.</description>
+    </item>
+    
+  </channel>
+</rss>

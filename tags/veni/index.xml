@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Veni on Welcome to my site</title>
+    <link>/tags/veni/</link>
+    <description>Recent content in Veni on Welcome to my site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/veni/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reform stress in the public sector: does the constant exposure to anti-bureaucratic reforms paradoxically undermine the entrepreneurial nature of public sector organizations? (2018-2021)</title>
+      <link>/project/deep-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/project/deep-learning/</guid>
+      <description>In response to economic pressures and increasing demands on public sector performance, subsequent waves of public sector reforms were introduced over the last decades. During these reform waves, public sector organizations were subject to a wide array of structural changes happening in rapid succession. While there is little consistency in these reforms, a strong focus on creating entrepreneurial, non-bureaucratic organizations is one tenet all reforms share. Yet literature warns for reform fatigue and reform stress within organizations, suggesting that such a constant exposure to structural changes may in fact undermine the anti-bureaucracy objective of reforms.</description>
+    </item>
+    
+    <item>
+      <title>Under pressure!? Reform Stress In The Public Sector</title>
+      <link>/post/getting-started/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/post/getting-started/</guid>
+      <description>Public organizations are subject to a multitude of reforms. Yet, little is known on the precise effects of such continuous reforms. This research analyses the effect of such repeated structural reforms on the entrepreneurial nature of public sector organizations.
+During the last decades, the public sector has witnessed wave after wave of structural reforms. Yet, this ‘reform fever’ has rarely resulted in desirable outcomes. Although to date little is known on how those repeated reforms precisely affect public sector organizations (PSOs), literature has advanced the notion that such repeated reforms can lead to reform stress (Pollitt, 2007).</description>
+    </item>
+    
+  </channel>
+</rss>

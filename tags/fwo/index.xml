@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FWO on Welcome to my site</title>
+    <link>/tags/fwo/</link>
+    <description>Recent content in FWO on Welcome to my site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/fwo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How history matters for public sector organizations: examining the effect of past changes on organizational autonomy (2015-2018)</title>
+      <link>/project/fwo/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/project/fwo/</guid>
+      <description>In response to economic pressures and increasing demands on public sector performance, subsequent waves of public sector reforms were introduced over the last decades (Pollitt &amp;amp; Bouckaert, 2011). During these reform waves, public sector organizations were subject to a wide array of structural changes such as: giving up and re-integrating tasks, the absorption of (parts of) other organizations, the secession of parts to other organizations and changes in legal status. Research has largely neglected the impact of such sequential and repeated structural changes on public sector organizations.</description>
+    </item>
+    
+  </channel>
+</rss>

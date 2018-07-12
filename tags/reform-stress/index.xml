@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reform stress on Hello!</title>
+    <link>/tags/reform-stress/</link>
+    <description>Recent content in Reform stress on Hello!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/reform-stress/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Under Pressure!? Reform stress in the public sector</title>
+      <link>/project/deep-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/project/deep-learning/</guid>
+      <description>In response to economic pressures and increasing demands on public sector performance, subsequent waves of public sector reforms were introduced over the last decades. During these reform waves, public sector organizations were subject to a wide array of structural changes happening in rapid succession. While there is little consistency in these reforms, a strong focus on creating entrepreneurial, non-bureaucratic organizations is one tenet all reforms share. Yet literature warns for reform fatigue and reform stress within organizations, suggesting that such a constant exposure to structural changes may in fact undermine the anti-bureaucracy objective of reforms.</description>
+    </item>
+    
+  </channel>
+</rss>

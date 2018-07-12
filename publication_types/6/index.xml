@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>6 on Welcome to my site</title>
+    <link>/publication_types/6/</link>
+    <description>Recent content in 6 on Welcome to my site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Challenges for large-scale international comparative survey-based research in public administration</title>
+      <link>/publication/c/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regression Analysis</title>
+      <link>/publication/d/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>De attractiviteit van Vlaanderen voor O&amp;O investeringen door buitenlandse multinationale ondernemingen</title>
+      <link>/publication/f/</link>
+      <pubDate>Thu, 01 Jul 2010 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/f/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Innovatie, export en werkgelegenheidsgroei</title>
+      <link>/publication/e/</link>
+      <pubDate>Thu, 01 Jul 2010 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/e/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

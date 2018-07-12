@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Welcome to my site</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on Welcome to my site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Comparing and explaining the effects of organizational autonomy in the public sector. (June 2011- May 2014)</title>
+      <link>/project/phd/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/project/phd/</guid>
+      <description>In the last three decades, public tasks have been shifted from central government to a proliferated periphery of autonomous agencies. According to the New Public Management (NPM) doctrine, organizational autonomy would induce these agencies to develop a more private sector-like management, to be more customer-oriented, and to be more accountable for results. Although many governments of most OECD countries continue(d) to change the structure of their public sector fundamentally, following NPM and post-NPM recipes, little was known of the effect of increased autonomy.</description>
+    </item>
+    
+    <item>
+      <title>How history matters for public sector organizations: examining the effect of past changes on organizational autonomy (2015-2018)</title>
+      <link>/project/fwo/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/project/fwo/</guid>
+      <description>In response to economic pressures and increasing demands on public sector performance, subsequent waves of public sector reforms were introduced over the last decades (Pollitt &amp;amp; Bouckaert, 2011). During these reform waves, public sector organizations were subject to a wide array of structural changes such as: giving up and re-integrating tasks, the absorption of (parts of) other organizations, the secession of parts to other organizations and changes in legal status. Research has largely neglected the impact of such sequential and repeated structural changes on public sector organizations.</description>
+    </item>
+    
+    <item>
+      <title>Reform stress in the public sector: does the constant exposure to anti-bureaucratic reforms paradoxically undermine the entrepreneurial nature of public sector organizations? (2018-2021)</title>
+      <link>/project/deep-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/project/deep-learning/</guid>
+      <description>In response to economic pressures and increasing demands on public sector performance, subsequent waves of public sector reforms were introduced over the last decades. During these reform waves, public sector organizations were subject to a wide array of structural changes happening in rapid succession. While there is little consistency in these reforms, a strong focus on creating entrepreneurial, non-bureaucratic organizations is one tenet all reforms share. Yet literature warns for reform fatigue and reform stress within organizations, suggesting that such a constant exposure to structural changes may in fact undermine the anti-bureaucracy objective of reforms.</description>
+    </item>
+    
+    <item>
+      <title>Stable or turbulent organizational reform histories in the public sector: causes and effects? (2015-2019)</title>
+      <link>/project/bof/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/project/bof/</guid>
+      <description>This PhD project is supervised by me and prof. dr. Koen Verhoest. It is funded by the University of Antwerp and executed by Bjorn Kleizen. Bjorn studies through quantitative and qualitative research the impact of reforms on the organizational climate in public sector organizations.</description>
+    </item>
+    
+  </channel>
+</rss>
