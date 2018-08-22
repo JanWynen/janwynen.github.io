@@ -451,6 +451,16 @@
     
     <url>
     
+      <loc>/</loc>
+      <lastmod>2016-04-20T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/phd/</loc>
       <lastmod>2016-04-27T00:00:00+02:00</lastmod>
       <priority>0</priority>
@@ -493,16 +503,6 @@
     
       <loc>/tags/veni/</loc>
       <lastmod>2016-04-27T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/</loc>
-      <lastmod>2016-04-20T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
