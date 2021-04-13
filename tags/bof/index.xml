@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 27 Apr 2021 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/tags/bof/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Repetitive Reform Injury: Exploring the usefulness of biomarkers to examine unintended side-effects of conintuous governmental restructuring. (UA BOFKP project)</title>
+      <link>/project/bof4/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0200</pubDate>
+      
+      <guid>/project/bof4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Avoiding repetitive reform injury in the public sector. Can leadership behavior reduce the damaging effect of repetitive reforms? (UA BOF project 2021-2025)</title>
+      <link>/project/bof3/</link>
+      <pubDate>Thu, 27 Feb 2020 00:00:00 +0100</pubDate>
+      
+      <guid>/project/bof3/</guid>
+      <description>&amp;ldquo;This BOF funded project will qualitatively investigate (a) the short term and (b) the long term impact of extensive structural changes on decision-making processes within organizations. Two measurement point will be applied, not only allowing to assess the long-term impact, but also to improve causal inference.&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>Are structural changes paradoxically undermining organizational adaptability? A study to the impact of continuous structural changes on decision-making within organizations. (UA BOF project 2020-2024)</title>
+      <link>/project/bof2/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/project/bof2/</guid>
+      <description>&amp;ldquo;This BOF funded project will qualitatively investigate (a) the short term and (b) the long term impact of extensive structural changes on decision-making processes within organizations. Two measurement point will be applied, not only allowing to assess the long-term impact, but also to improve causal inference.&amp;rdquo;</description>
+    </item>
     
     <item>
       <title>Stable or turbulent organizational reform histories in the public sector: causes and effects? (UA BOF project 2015-2019)</title>
@@ -19,6 +46,15 @@
       
       <guid>/project/bof/</guid>
       <description>This PhD project is supervised by me and prof. dr. Koen Verhoest. It is funded by the University of Antwerp and executed by Bjorn Kleizen. Bjorn studies through quantitative and qualitative research the impact of reforms on the organizational climate in public sector organizations.</description>
+    </item>
+    
+    <item>
+      <title>Repetitive reform: Doing more harm than good?</title>
+      <link>/post/getting-started/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/post/getting-started/</guid>
+      <description>&amp;ldquo;https://dobetter.esade.edu/en/repetitive-reform (English) or https://dobetter.esade.edu/es/reforma-reiterada?_wrapper_format=html (Spanish)&amp;ldquo;&amp;rdquo;</description>
     </item>
     
   </channel>
